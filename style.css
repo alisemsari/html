@@ -1,0 +1,24 @@
+/* Le point est obligatoire pour cibler class="logo-site" */
+.logo-site {
+    display: block;     /* L'image se comporte comme un bloc (prend toute la largeur) */
+    margin-left: auto;  /* Marge automatique à gauche */
+    margin-right: auto; /* Marge automatique à droite */
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #de7471;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: #007471;
+}
